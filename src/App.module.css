@@ -1,0 +1,8 @@
+.card{
+    text-align: center;
+    width: 12%;
+    display: inline-block;
+    margin: 10px;
+    background-color: grey;
+    color: yellow;
+}
